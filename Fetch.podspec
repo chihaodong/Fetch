@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Fetch'
-  s.version          = '1.1.1'
+  s.version          = '2.3.0'
   s.summary          = 'A resource based network abstraction based on Alamofire'
 
 
